@@ -8,7 +8,7 @@
 ## Lets begin ->
 
 | Commands  | Description   |
-| -------:  | -----------   |
+| :-------  | -----------   |
 |ls         | List files    |
 |ls -a      | List files + hidden files |
 |pwd        | Print actual route    |
