@@ -1,9 +1,9 @@
 
 
 
-# Hello, this is gonna be the the projectr for command line
+# Hello, here I'm gonne show a few commands that I usualy use.
 
-@andleus
+Made by @andleus
 
 ## Lets begin ->
 
