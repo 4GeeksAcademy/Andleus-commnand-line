@@ -21,4 +21,4 @@
 |rm         | Deletes a file/folder, can use -rf to force it |
 |grep       | Filter in a file  |
 |find       | Find the route where a file exists    |
-| <|>       | Given a first commnad before the <|> the second command after it works whit the result of the first one   |
+| \|       | Given a first commnad before the \| the second command after it works whit the result of the first one   |
